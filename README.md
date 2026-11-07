@@ -1,5 +1,7 @@
 # дз-3: логистическая регрессия и streamlit
 
+[открыть приложение](https://mmadhw3-cgrmqnwypngrcsngph9om9.streamlit.app/)
+
 решение находится в `HW3_MMDA.ipynb`, приложение - в папке `wine_app/`
 
 проверено на python 3.12.14. запуск из корня репозитория:
